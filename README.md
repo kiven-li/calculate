@@ -120,4 +120,3 @@ ocarry = (x AND y) OR (icarry AND (x XOR y)) = (x AND y) OR (y AND icarry) OR (i
 
 五、后记
 我实现的都是最简单的整数运算，浮点型以及更复杂类型的没有实现。虽然实现的比较简单，但是我觉得原理已经都说清楚了，至少我自己认为说的比较详细了。
-
