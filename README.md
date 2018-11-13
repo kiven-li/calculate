@@ -137,7 +137,7 @@ ocarry = (x AND y) OR (icarry AND (x XOR y)) = (x AND y) OR (y AND icarry) OR (i
 计算过程演示： 
 
            1 0 1 1
-x          1 1 0 1
+           1 1 0 1
  ------------------
 
            1 1 0 1
